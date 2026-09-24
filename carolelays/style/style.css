@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+.title-one{
+    text-align: center;
+
+}
+
+.title-two{
+    text-align: center;
+}
+
+u{
+    text-decoration: none;
+}
+
+button{
+    background-color: beige;
+    color: black;
+    border-radius: 12px;
+}
+
+button:hover{
+    background-color: chocolate;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding: 0;
+    justify-content: center;
+}
+
+#imageone {
+    margin-top: 10px;
+    height: 900px;
+    
+}
+
+nav ul{
+
+    text-align: center;
+}
